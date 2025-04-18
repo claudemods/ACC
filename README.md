@@ -55,6 +55,12 @@
 
 **Password 2025**
 
+**Kde Neon Built from neon-user-20250417-1319.iso**
+
+**Login Username kdeneon**
+
+**Password 2025**
+
 
  ##  [Photos](https://github.com/claudemods/ACC/blob/main/Photos.md) 🚀🎮
  
