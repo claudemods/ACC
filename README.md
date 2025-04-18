@@ -28,12 +28,18 @@
 **Password 2025**
 
 
-**Apex CKGE Minimal Built From Apex-CKGE-Minimal-v1.01_amd64_2025-03-25_1741.iso**
+**Apex CKGE Minimal Stable Built From Apex-CKGE-Minimal-v1.01_amd64_2025-03-25_1741.iso**
 
 **Login Username apex**
 
 **Password 2025**
+
  
+**Apex CKGE Full Stable Built From Apex-CKGE-Full-v1.01_amd64_2025-03-27_1125.iso**
+
+**Login Username apex**
+
+**Password 2025**
 
 
  ##  [Photos](https://github.com/claudemods/ACC/blob/main/Photos.md) 🚀🎮
