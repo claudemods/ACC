@@ -3,7 +3,8 @@
 ## Apex KLGE
 
 ## Built From Apex-KLGE-Minimal-v1.0_amd64_2025-03-17_1912.iso
-![Screenshot_20250418_162253](https://github.com/user-attachments/assets/ca3fe586-1bcf-49f6-b621-b3dd4b324dac)
+![Screenshot_20250418_162617](https://github.com/user-attachments/assets/591fa529-347c-4ef0-866b-a2a8faa1c5eb)
+
 
 
 
