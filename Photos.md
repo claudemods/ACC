@@ -28,13 +28,13 @@
 
 ## Apex CKGE Full Developer Channel
 
-## Built From Apex-CKGE-Full-v1.01_amd64_2025-03-27_2101
+## Built From Apex-CKGE-Full-v1.01_amd64_2025-03-27_2101.iso
 
 ![Screenshot_20250418_173339](https://github.com/user-attachments/assets/e8db4e49-95ed-4fae-a3cb-8d5696e7eace)
 
 ## Artix Hyprland
 
-## Built From Artix-Hyprland-v1.0_amd64_2025-03-16_0128
+## Built From Artix-Hyprland-v1.0_amd64_2025-03-16_0128.iso
 
 ![Screenshot_20250418_180012](https://github.com/user-attachments/assets/a9099015-143b-4da0-ba04-a2424934fd54)
 
