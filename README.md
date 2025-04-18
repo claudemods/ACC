@@ -18,7 +18,7 @@
 
 
 ## Apex CachyOS Container! 🎮
-**Unofficial Custom Incus System Container Builds With Blazingly Fast CachyOS Kde Wayland!**
+**Unofficial Custom Incus System Container Builds
 
 ## Current Available Builds 🚀🎮💻💿
 **Oem CachyOS Kde Built From cachyos-desktop-linux-250330.iso**
