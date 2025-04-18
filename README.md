@@ -26,6 +26,13 @@
 **Login Username cachyos**
 
 **Password 2025**
+
+
+**Apex CKGE Minimal Built From Apex-CKGE-Minimal-v1.01_amd64_2025-03-25_1741.iso**
+
+**Login Username apex**
+
+**Password 2025**
  
 
 
