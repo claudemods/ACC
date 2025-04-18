@@ -55,6 +55,12 @@
 
 **Password 2025**
 
+**Artix Hyprland Built From Artix-Hyprland-v1.0_amd64_2025-03-16_0128.iso**
+
+**Login Username apex**
+
+**Password 2025**
+
 **Kde Neon Built from neon-user-20250417-1319.iso**
 
 **Login Username kdeneon**
