@@ -38,6 +38,12 @@
 
 ![Screenshot_20250418_180012](https://github.com/user-attachments/assets/a9099015-143b-4da0-ba04-a2424934fd54)
 
+## Kde Neon
+
+## Built from neon-user-20250417-1319.iso
+
+![Screenshot_20250418_211812](https://github.com/user-attachments/assets/7d8450b5-15c7-4b73-83b7-fe1cbe29e554)
+
 
 
 
