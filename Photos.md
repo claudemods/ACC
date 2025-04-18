@@ -32,3 +32,12 @@
 
 ![Screenshot_20250418_173339](https://github.com/user-attachments/assets/e8db4e49-95ed-4fae-a3cb-8d5696e7eace)
 
+## Artix Hyprland
+
+## Built From Artix-Hyprland-v1.0_amd64_2025-03-16_0128
+
+![Screenshot_20250418_180012](https://github.com/user-attachments/assets/a9099015-143b-4da0-ba04-a2424934fd54)
+
+
+
+
