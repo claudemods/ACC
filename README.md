@@ -24,6 +24,8 @@
 **Oem CachyOS Kde Built From cachyos-desktop-linux-250330.iso**
 
 **Login Username cachyos**
+
+**Password 2025**
  
 
 
