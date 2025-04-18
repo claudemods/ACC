@@ -73,7 +73,7 @@
  
   **3) custom dolphin service menus**
  
-  **4) latest system packages including kernel**
+  **4) latest system packages**
  
   **5) custom set of applications tailored for gamers**
  
